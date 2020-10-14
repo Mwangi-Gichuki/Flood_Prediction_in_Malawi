@@ -43,6 +43,6 @@ The main objective of the project is to build a machine learning model that help
 
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|Anyoso Winnie]
-|[Samoe Stacey]
-[Gichuki Michael]
+|Anyoso Winnie
+|Samoe Stacey
+Gichuki Michael
